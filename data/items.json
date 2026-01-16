@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphone",
+    "description": "High quality wireless headphone with noise cancellation.",
+    "price": 3500,
+    "image": "https://i.ibb.co.com/4RcpkF3J/jr-oh1-01-500x500.webp"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "description": "Track your health and notifications easily.",
+    "price": 4200,
+    "image": "https://i.ibb.co.com/rGT6ygcp/H9834453037854636bc3662558a9c14c3-R-jpg-720x720q50.webp"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "price": 2800,
+    "image": "https://i.ibb.co.com/3YQrnfPV/best-bluetooth-speakers-header.webp"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "description": "RGB gaming mouse with adjustable DPI and smooth tracking.",
+    "price": 1500,
+    "image": "https://i.ibb.co.com/JnQk7rD/gaming-mouse.webp"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "description": "Durable mechanical keyboard with blue switches and RGB light.",
+    "price": 4800,
+    "image": "https://i.ibb.co.com/ZdRkXzL/mechanical-keyboard.webp"
+  },
+  {
+    "id": 6,
+    "name": "Power Bank",
+    "description": "10000mAh fast charging power bank with dual USB output.",
+    "price": 2200,
+    "image": "https://i.ibb.co.com/9y8Hc2B/power-bank.webp"
+  }
+]
