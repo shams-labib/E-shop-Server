@@ -25,20 +25,20 @@
     "name": "Gaming Mouse",
     "description": "RGB gaming mouse with adjustable DPI and smooth tracking.",
     "price": 1500,
-    "image": "https://i.ibb.co.com/JnQk7rD/gaming-mouse.webp"
+    "image": "https://i.ibb.co.com/tFNjXtf/V6-Gaming-Mouse-With-RGB-Backlit-And-Metal-Body.webp"
   },
   {
     "id": 5,
     "name": "Mechanical Keyboard",
     "description": "Durable mechanical keyboard with blue switches and RGB light.",
     "price": 4800,
-    "image": "https://i.ibb.co.com/ZdRkXzL/mechanical-keyboard.webp"
+    "image": "https://i.ibb.co.com/zW3ff3rC/71-ZRus2-YNc-L-AC-UF894-1000-QL80.jpg"
   },
   {
     "id": 6,
     "name": "Power Bank",
     "description": "10000mAh fast charging power bank with dual USB output.",
     "price": 2200,
-    "image": "https://i.ibb.co.com/9y8Hc2B/power-bank.webp"
+    "image": "https://i.ibb.co.com/Ndg07TVH/vention-fhkw0-10000mah-white-225w-power-bank-11727782621.webp"
   }
 ]
