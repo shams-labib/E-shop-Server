@@ -12,7 +12,6 @@ app.use(express.json());
 
 // Routes
 app.use("/items", itemsRoute);
-// Hello
 // Health check
 app.get("/", (req, res) => {
   res.send("Items API is running 🚀");
